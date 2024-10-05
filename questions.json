@@ -1,0 +1,112 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Max uses two gears, one rotating at 2<sup>3</sup> speed and the other at 2<sup>2</sup>. What is the result when the speeds are multiplied together?",
+        "options": [
+            "2<sup>5</sup>",
+            "2<sup>6</sup>",
+            "2<sup>4</sup>",
+            "2<sup>7</sup>"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q2",
+        "question": "Max combines two machines: one at 3<sup>2</sup> speed and another at 3<sup>3</sup>. What is the result when he multiplies these speeds?",
+        "options": [
+            "3<sup>4</sup>",
+            "3<sup>5</sup>",
+            "3<sup>6</sup>",
+            "3<sup>7</sup>"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q3",
+        "question": "If Max's gears rotate at 4<sup>3</sup> and 4<sup>4</sup>, what is the simplified result of multiplying their speeds?",
+        "options": [
+            "4<sup>6</sup>",
+            "4<sup>7</sup>",
+            "4<sup>8</sup>",
+            "4<sup>5</sup>"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q4",
+        "question": "Max builds two machines, one at 5<sup>2</sup> and another at 5<sup>4</sup>. What is their product?",
+        "options": [
+            "5<sup>5</sup>",
+            "5<sup>8</sup>",
+            "5<sup>10</sup>",
+            "5<sup>6</sup>"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q5",
+        "question": "Max has gears rotating at 6<sup>3</sup> and 6<sup>2</sup>. What is the final result of their multiplication?",
+        "options": [
+            "6<sup>5</sup>",
+            "6<sup>6</sup>",
+            "6<sup>7</sup>",
+            "6<sup>4</sup>"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q6",
+        "question": "For a new challenge, Max multiplies 7<sup>3</sup> and 7<sup>8</sup>. What is the exponent after combining them?",
+        "options": [
+            "0",
+            "1",
+            "7<sup>11</sup>",
+            "7<sup>24</sup>"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q7",
+        "question": "Max speeds up his gears with (-8)<sup>2</sup> and (-8)<sup>5</sup>. What is the result of multiplying these?",
+        "options": [
+            "(-8)<sup>6</sup>",
+            "(-8)<sup>7</sup>",
+            "(8)<sup>6</sup>",
+            "(8)<sup>7</sup>"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q8",
+        "question": "Max combines machines with speeds (<sup>1</sup>&frasl;<sub>9</sub>)<sup>3</sup> and (<sup>1</sup>&frasl;<sub>9</sub>)<sup>2</sup>. What is the result of multiplying these speeds?",
+        "options": [
+            "(<sup>1</sup>&frasl;<sub>9</sub>)<sup>10</sup>",
+            "(<sup>1</sup>&frasl;<sub>9</sub>)<sup>6</sup>",
+            "(<sup>1</sup>&frasl;<sub>9</sub>)<sup>5</sup>",
+            "9<sup>5</sup>"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q9",
+        "question": "Max uses 10<sup>4</sup> and 10<sup>3</sup> for his next machine. What is the combined exponent when multiplied?",
+        "options": [
+            "10<sup>7</sup>",
+            "10<sup>12</sup>",
+            "10<sup>8</sup>",
+            "10<sup>10</sup>"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q10",
+        "question": "Max multiplies 11<sup>2</sup> and 11<sup>15</sup>. What is the result?",
+        "options": [
+            "11<sup>30</sup>",
+            "11<sup>17</sup>",
+            "11<sup>20</sup>",
+            "11<sup>21</sup>"
+        ],
+        "correct": 1
+    }
+]
